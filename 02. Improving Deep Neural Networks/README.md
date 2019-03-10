@@ -1,22 +1,50 @@
-# Deep Learning Specialization
-
-
-This repo contains the theory concepts and practice exercises of the **Deep Learning Specialization** by deeplearning.ai.
-
-<br/>
-
-<p align="center">
-  
-  <img src="https://www.nvidia.com/content/dam/en-zz/Solutions/deep-learning/deep-learning-education/deep-learning-education-deep-learning-ai-297-udtm.png">
-
-</p>
-
+# 2. Improving Deep Neural Networks
 
 ## Content
 
+### Week 1 - Practical aspects of Deep Learning
 
-| Course | Description|
-|----------|-------------|
-| [Course 1](https://github.com/miguelfzafra/Deep-Learning-Specialization/tree/master/01.%20Deep%20Learning%20and%20Neural%20Networks)| Deep Learning and Neural Networks|
+**Theory**
 
-On each course, the content is detailed in the README file.
+* Setting up a machine learning application: train/dev/test sets, bias/variance.
+* Basic recipe for machine learning.
+* Regularization: L2 and dropout. Other regularization methods.
+* Optimization: normalizing inputs, vanishing/exploding gradients, weight initialization, gradient checking.
+
+**Practice**
+
+* Initialization: zero, random and He initialization.
+* Regularization: L2 and dropout.
+* Gradient Checking: implementation.
+
+
+### Week 2 - Optimization algorithms
+
+**Theory**
+
+* Mini-batch gradient descent.
+* Exponentially weighted averages. Bias correction.
+* Gradient descent with momentum.
+* RMSprop and Adam optimization algorithms.
+* Learning rate decay.
+* Local optima and plateaus.
+
+
+**Practice**
+
+* Optimization methods: GD, mini-batch GD, GD with momentum, Adam. 
+
+### Week 3 - Hyperparameter Tuning, Batch Normalization and Programming Frameworks
+
+**Theory**
+
+* Hyperparameter tuning process. Picking an appropiate scale. Pandas vs. Caviar.
+* Batch normalization: motivation, intuition and implementation. Batch norm at test time.
+* Multi-class classification.
+* Introduction to programming frameworks.
+
+
+**Practice**
+
+* TensorFlow example.
+* TensorFlow implementation of a 3-layer NN.
