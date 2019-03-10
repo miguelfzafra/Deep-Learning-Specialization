@@ -19,4 +19,6 @@ This repo contains the theory concepts and practice exercises of the **Deep Lear
 |----------|-------------|
 | [Course 1](https://github.com/miguelfzafra/Deep-Learning-Specialization/tree/master/01.%20Deep%20Learning%20and%20Neural%20Networks)| Deep Learning and Neural Networks|
 | [Course 2](https://github.com/miguelfzafra/Deep-Learning-Specialization/tree/master/02.%20Improving%20Deep%20Neural%20Networks)| Improving Deep Neural Networks|
+
+
 On each course, the content is detailed in the README file.
