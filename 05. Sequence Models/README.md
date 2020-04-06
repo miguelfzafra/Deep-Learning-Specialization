@@ -1,33 +1,46 @@
-# 4. Convolutional Neural Networks
+# 4. Sequence Models
 
 ## Content
 
-### Week 1 - Foundations of Convolutional Neural Networks
+### Week 1 - Recurrent Neural Networks
 
 **Theory**
 
-* Computer Vision introduction.
-* Convolution operation through examples: edge detection. Padding. Strided convolution. Convolutions over volume.
-* Implementing a layer of a convolutional network. 
-* Pooling and fully-connected layers.
-* Example of a complete CNN example.
-* Main advantages of convolution.
+* Introduction and motivation on why using sequence models.
+* Recurrent NN model: backpropagation through time, different types of RNN.
+* Language model and sequence generation.
+* Vanishing gradients with RNN.
+* GRU, LSTM and Bidirectional RNN. Deep RNNs.
 
 **Practice**
 
-* Implementing convolution, pooling and forward-backward propagation from scratch.
-* Programming a CNN application of signs detection with TensorFlow.
+* Building a RNN step by step.
+* Character level language modeling.
+* Jazz improvisation with LSTM.
 
-### Week 2 - Deep convolutional models: case studies
+### Week 2 - NLP and Word Embeddings
 
 **Theory**
 
-* Classic Networks
-* ResNets. Explanation of why they work.
-* Inception Network. Motivation and implementation.
-* Practical advices for using ConvNets: open-source implementation, transfer learning, data augmentation, state of computer vision.
+* Word representations. Word embeddings and its properties. Embedding matrix.
+* Learning word embeddings: Word2Vec and GloVe.
+* Applications using Word Embeddings: sentiment classification, debiasing word embeddings.
 
 **Practice**
 
-* Keras tutorial for a simple network.
-* Residual Network with keras.
+* Debiasing Word Embeddings.
+* Emojify.
+
+### Week 3 - Sequence models and Attention mechanism
+
+**Theory**
+
+* Sequence to sequence architectures. 
+* Beam search: introduction, refinements, error analysis.
+* Attention models.
+* Speech recognition with audio data: introduction and trigger word detection.
+
+**Practice**
+
+* Neural Machine Translation with Attention.
+* Trigger word detection.

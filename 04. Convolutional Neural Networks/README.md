@@ -31,3 +31,27 @@
 
 * Keras tutorial for a simple network.
 * Residual Network with keras.
+
+### Week 3 - Object detection
+
+**Theory**
+
+* Object localization and landmark detection.
+* Convolutional implementation of Sliding Windows.
+* Bounding Box predictions. Anchor Boxes. YOLO.
+
+**Practice**
+
+* Car detection with YOLO.
+
+### Week 4 - Special applications: Face recognition and Neural Style Transfer
+
+**Theory**
+
+* Face recognition: one-shot learning, siamese network, triplet loss. Face verification and binary classification.
+* Neural Style Transfer: introduction, cost functions, 1D and 3D generalizations.
+
+**Practice**
+
+* Art generation with NST.
+* Face recognition.
