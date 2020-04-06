@@ -21,6 +21,7 @@ This repo contains the theory concepts and practice exercises of the **Deep Lear
 | [Course 2](https://github.com/miguelfzafra/Deep-Learning-Specialization/tree/master/02.%20Improving%20Deep%20Neural%20Networks)| Improving Deep Neural Networks|
 | [Course 3](https://github.com/miguelfzafra/Deep-Learning-Specialization/tree/master/03.%20Structuring%20ML%20Projects)| Structuring Machine Learning Projects|
 | [Course 4](https://github.com/miguelfzafra/Deep-Learning-Specialization/tree/master/04.%20Convolutional%20Neural%20Networks)| Convolutional Neural Networks|
+| [Course 5](https://github.com/miguelfzafra/Deep-Learning-Specialization/tree/master/05.%20Sequence%20Models)| Sequence Models|
 
 
 On each course, the content is detailed in the README file.
